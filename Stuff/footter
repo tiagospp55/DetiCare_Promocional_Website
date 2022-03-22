@@ -1,0 +1,27 @@
+ <footer class="page-footer">
+    <div class="container">
+      <div class="row px-md-3">
+        <div class="col-sm-6 col-lg-3 py-3">
+          <h5>Company</h5>
+          <ul class="footer-menu">
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="doctors.html">Our Team</a></li>
+            <li><a href="index.html #case_studies" >Case Studies</a></li>
+            <li><a href="contact.html">Contacts</a></li>
+          </ul>
+        </div>
+       
+        <div class="col-sm-6 col-lg-3 py-3">
+          <h5>Contact</h5>
+          <p class="footer-link mt-2">DETI, Universidade de Aveiro</p>
+          <a href="#" class="footer-link">Aveiro, Portugal</a>
+          <a href="#" class="footer-link">deticarepee@gmail.com</a>
+
+        </div>
+      </div>
+
+      <hr>
+
+      <p id="copyright">Copyright &copy; 2020 <a href="https://macodeid.com/" target="_blank">MACode ID</a>. All right reserved</p>
+    </div>
+  </footer>
